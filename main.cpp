@@ -22,5 +22,6 @@ int main()
     }
     atlag = atlag / N_ELEMENTS;  // osztás kell csak
     std::cout << "Atlag: " << atlag << std::endl;
+    std::cout << "szia" << std::endl;
     return 0; 
 }
